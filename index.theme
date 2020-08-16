@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Gtk-Oblivion
+Comment=inspired by GMK Oblivions and Gallon-brown!
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Gtk-Oblivion
+MetacityTheme=Gtk-Oblivion
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:shade,minimize,maximize,close
