@@ -140,9 +140,9 @@ StScrollBar StButton#vhandle:hover
 
 .popup-menu-boxpointer {
   -arrow-border-radius: 3px;
-  -arrow-background-color: rgba(38,38,41,0.70);
+  -arrow-background-color: rgba(38,38,41,0.0);
   -arrow-border-width: 1px;
-  -arrow-border-color: rgba(38,38,41,0.70);
+  -arrow-border-color: rgba(38,38,41,0.00);
   -arrow-base: 21px;
   -arrow-rise: 9px;
 }
@@ -150,7 +150,7 @@ StScrollBar StButton#vhandle:hover
 /* Cinnamon 3.2 fix */
 .popup-menu,
 .menu {
-    background-color: rgba(38,38,41,0.70);
+    background-color: rgba(38,38,41,0.0);
     /*border-image: url('popup-menu.png') 8 8 8 8;*/
     color: #D2D2D2;
     font-size: 9pt;
